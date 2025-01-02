@@ -16,3 +16,15 @@ The game will be available as a command line application: 'python Boggle.py' or 
 
 ### Note:
 This project was created as part of the Python course at WIS, 2024. 
+
+<Describe your project's features here>
+
+We have added some features to stress the user as his time is running out:
+    1. The timer digits turn red when there are only 40 seconds left
+    2. When there are less than 10 seconds left,
+       there is a "beep" sound with every second passing.
+
+In addition, we have created a quit button that when pressed,
+pops a message box asking whether the user is sure about leaving the game.
+
+moreover, we added a sounds for all success or failure of choosing a word from the board.
